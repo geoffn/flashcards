@@ -1,0 +1,6 @@
+// { spanish, enlgish, (noun, verb, adjective), category(days of week), {conjunction}}
+
+{ 'domingo', 'sunday', 'noun', 'Calendar', ''},
+
+{ 'perezosos', 'lazy', 'adjective', { 'Masculine' : 'perezosos', 'Feminine' : 'perezosas' }}
+
